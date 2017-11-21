@@ -1,0 +1,5 @@
+---
+applications:
+- name: hello-go
+  command: hello-go
+
